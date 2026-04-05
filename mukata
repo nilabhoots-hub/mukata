@@ -57,7 +57,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
         <div class="container">
-            <a class="navbar-brand" href="https://saeleet5-ai.github.io/FoodAroundSU/">
+            <a class="navbar-brand" href="https://food-around-su.vercel.app/">
                 Food Around SU
             </a>
 
@@ -68,7 +68,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">หน้าแรก</a>
+                        <a class="nav-link" href="https://food-around-su.vercel.app/">หน้าแรก</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#food-section">ของกินรอบม.ศิลปากร</a>
